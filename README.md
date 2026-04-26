@@ -1,6 +1,6 @@
-# ESP32 Low-Power Weather Station
+# ESP32 Indoor Plant Climate Monitor 🌿
 
-A self-contained IoT weather node optimized for long-term battery operation. This project transitions a breadboard prototype to a permanent 5x7cm perfboard build.
+A precision IoT monitoring node designed to track the micro-climate of sensitive indoor plants. This project transitions a breadboard prototype into a permanent, low-power hardware solution for 24/7 environmental telemetry.
 
 ## Hardware Build
 
