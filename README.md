@@ -2,6 +2,13 @@
 
 A self-contained IoT weather node optimized for long-term battery operation. This project transitions a breadboard prototype to a permanent 5x7cm perfboard build.
 
+## Hardware Build
+| Top View | Bottom View |
+| :---: | :---: |
+| ![Top View](esp32_weatherStation_topView.jpg) | ![Bottom View](esp32_weatherStation_bottomView.jpg) |
+
+### Prototype
+![Breadboard Prototype](esp32_weatherStation_breadboard_protoype.jpg)
 ## Technical Specifications
 * **MCU:** ESP32 DevKit V1 (38-pin)
 * **Sensor:** Bosch BME280 (I2C)
